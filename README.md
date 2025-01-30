@@ -16,10 +16,15 @@ This project aims to develop a system for detecting driver fatigue and drowsines
 **User-Friendly Interface:** Simple to use with clear on-screen prompts.
 
 ## Requirements
+
 1.Python
+
 2.OpenCV
+
 3.Dlib
+
 4.NumPy
+
 5.imutils
 
 ## How It Works
